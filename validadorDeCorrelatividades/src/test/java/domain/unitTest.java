@@ -27,7 +27,7 @@ public class unitTest {
         asigCursadasXLuca.add(analisisDeSistemas);
         asigCursadasXLuca.add(SYO);
         Alumno luca = new Alumno("Luca", asigCursadasXLuca);
-        
+
 
         List<Asignatura> asigAInscribirse = new ArrayList<>();
         asigAInscribirse.add(DisenioDeSistemas);
